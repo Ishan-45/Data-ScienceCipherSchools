@@ -1,0 +1,54 @@
+Principles Of Data Visualization
+
+-What is Data visulation?
+Data visualization is a way of presenting data in a visual format, such as charts, graphs, and maps. It helps data scientists to better understand and interpret complex data setsby making it easier
+to identify patterns, trends, and outliers. This can be especially useful for communicating findings to others, as visuals are often more intuitive and easier to understand than raw data or 
+statistical models .
+
+-Different type of plots?
+1.Line chart
+2.Bar chart 
+3.Pie chart
+4.Histogram
+5.Scatter Plot:Productivity vs hours worked 
+6.Box Plot: Salaries by Department
+
+-Power BI lanched by Microsoft 
+-Plotly 
+1.It is very powerfull and open source library 
+2.It create a interactive graph 
+3. It has wide range of chart 
+4. It is cross platfrom support
+
+It is used in two language :
+-Python
+-R
+
+Principle of Data visulation :
+-Principle 1 -> Clarity
+1.Avoid clutter
+2.Use clear visual hierachies 
+
+-Principle 2 ->Accessibility
+1.Use color scheme that are color blind friendly
+2.Ensure text is readable
+
+-Principle 3 -> Accuracy
+1.Use appropriate scales and axes
+2.Avoid misleading representationes
+
+-Principle 4 ->Relevance 
+1.Tailor visulations to the audience
+2.Highlight what's most important 
+
+-Principle 5 ->Aesthelics 
+1.Balance color and design element 
+2.Use whitespace effectively 
+
+-Principle 6 ->Interaction
+1.Example of interaction tools(eg: hover, drill-down)
+2.Benefitd of interaction is exploring data
+
+-Principle 70 -> Context
+1. Keep the big picture in mind
+2. Compare and contrast data pointer
